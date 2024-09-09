@@ -1,0 +1,26 @@
+
+        /* Styling the div container to display images in a flexbox layout */
+        div {
+            display: flex;                   /* Flexbox layout */
+            justify-content: center;          /* Center content horizontally */
+            align-items: center;              /* Center content vertically */
+            flex-wrap: wrap;                  /* Allow images to wrap to the next line */
+        }
+
+        /* Styling for the images inside the div */
+        div img {
+            width: 200px;                     /* Set image width */
+            height: 200px;                    /* Set image height */
+            border: 2px solid #ff3d0036;      /* Add a semi-transparent border */
+            border-radius: 13px;              /* Slightly round the corners */
+            box-shadow: 4px 7px 7px 0px #00000042; /* Add a subtle shadow */
+            cursor: pointer;                  /* Change cursor to pointer on hover */
+            margin: 10px;                     /* Add space around each image */
+            transition: 400ms;                /* Smooth transition for hover effects */
+        }
+
+        /* Hover effect for images */
+        div img:hover {
+            filter: grayscale(1);             /* Convert image to grayscale */
+            transform: scale(1.03);           /* Slightly enlarge the image */
+        }
