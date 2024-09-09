@@ -24,11 +24,11 @@ The Dynamic Image Gallery is created using:
 
 To use this gallery in your project visit:
 
-## <a href="https://jvcodes.com/3d-rotating-image-gallery-html-css-javascript/" >3D Rotating Image Gallery JV Code</a>
+## <a href="https://jvcodes.com/3d-rotating-image-gallery-html-css-javascript/" >Dynamic Image Gallery JV Code</a>
 
 ## Video Preview
 
 This video tutorial explain the how to create the dynamic image gallery.
 
-[![Watch the video](https://img.youtube.com/vi/oGhA9Zijr34/0.jpg)](https://www.youtube.com/watch?v=oGhA9Zijr34)
+[![Watch the video](https://img.youtube.com/vi/-t9gNhYfO_U/0.jpg)](https://www.youtube.com/watch?v=-t9gNhYfO_U)
 
