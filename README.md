@@ -24,4 +24,4 @@ The Dynamic Image Gallery is created using:
 
 To use this gallery in your project visit:
 
-## <a href="https://jvcodes.com/dynamic-image-gallery-in-html-css/" target="_blank" rel="follow">Dynamic Image Gallery JV Source Code</a>
+## <a href="https://jvcodes.com/dynamic-image-gallery-in-html-css/" >Dynamic Image Gallery JV Source Code</a>
