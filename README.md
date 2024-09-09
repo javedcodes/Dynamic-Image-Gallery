@@ -25,3 +25,10 @@ The Dynamic Image Gallery is created using:
 To use this gallery in your project visit:
 
 ## <a href="https://jvcodes.com/dynamic-image-gallery-in-html-css/" >Dynamic Image Gallery JV Source Code</a>
+
+## Video Preview
+
+This video tutorial explain the how to create the dynamic image gallery.
+
+[![Watch the video](https://img.youtube.com/vi/-t9gNhYfO_U/0.jpg)](https://www.youtube.com/watch?v=-t9gNhYfO_U)
+
